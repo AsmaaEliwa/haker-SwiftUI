@@ -12,6 +12,6 @@ struct PostModel: Codable {
 
 struct HitModel: Codable, Hashable {
     let title: String
-    let url:String
+    let url:String?
 }
 

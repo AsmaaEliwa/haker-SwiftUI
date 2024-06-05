@@ -24,7 +24,7 @@ class NetworkManager:ObservableObject{
                 do {
                     let result = try decoder.decode(PostModel.self, from: jsonData)
                     DispatchQueue.main.async{
-                        self.posts = result.hits
+                        self.posts = result.hits // must be on the main thread
                     }
                 }catch{
                     print(error)

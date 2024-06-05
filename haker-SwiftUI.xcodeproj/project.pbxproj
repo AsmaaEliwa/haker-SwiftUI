@@ -59,10 +59,10 @@
 			children = (
 				7F0A00F72C10C6D0005A276A /* haker_SwiftUIApp.swift */,
 				7F0A00F92C10C6D0005A276A /* ContentView.swift */,
+				7F0A010A2C10D084005A276A /* PostDetailView.swift */,
 				7F0A00FB2C10C6D3005A276A /* Assets.xcassets */,
 				7F0A00FD2C10C6D3005A276A /* Preview Content */,
 				7F0A01072C10C8CF005A276A /* Models */,
-				7F0A010A2C10D084005A276A /* PostDetailView.swift */,
 			);
 			path = "haker-SwiftUI";
 			sourceTree = "<group>";
