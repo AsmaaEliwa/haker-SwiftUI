@@ -14,7 +14,6 @@
 		7F0A01062C10C8CB005A276A /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F0A01052C10C8CB005A276A /* NetworkManager.swift */; };
 		7F0A01092C10CA0C005A276A /* PostModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F0A01082C10CA0C005A276A /* PostModel.swift */; };
 		7F0A010B2C10D084005A276A /* PostDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F0A010A2C10D084005A276A /* PostDetailView.swift */; };
-		7F0A010D2C11FBEA005A276A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 7F0A010C2C11FBEA005A276A /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,7 +25,6 @@
 		7F0A01052C10C8CB005A276A /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		7F0A01082C10CA0C005A276A /* PostModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostModel.swift; sourceTree = "<group>"; };
 		7F0A010A2C10D084005A276A /* PostDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailView.swift; sourceTree = "<group>"; };
-		7F0A010C2C11FBEA005A276A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,7 +41,6 @@
 		7F0A00EB2C10C6D0005A276A = {
 			isa = PBXGroup;
 			children = (
-				7F0A010C2C11FBEA005A276A /* .gitignore */,
 				7F0A00F62C10C6D0005A276A /* haker-SwiftUI */,
 				7F0A00F52C10C6D0005A276A /* Products */,
 			);
@@ -146,7 +143,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F0A00FF2C10C6D3005A276A /* Preview Assets.xcassets in Resources */,
-				7F0A010D2C11FBEA005A276A /* .gitignore in Resources */,
 				7F0A00FC2C10C6D3005A276A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
